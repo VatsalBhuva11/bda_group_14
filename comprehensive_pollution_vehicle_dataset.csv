@@ -1,0 +1,601 @@
+Country,Region,Economic_Region,Year,PM25_Concentration,Vehicle_Make,Vehicle_Class,Avg_CO2_Emissions,Avg_Fuel_Consumption,Avg_Engine_Size,Estimated_Market_Share,Pollution_Impact_Score,PM25_Category,CO2_Category,Engine_Size_Category
+Argentina,Americas,South_America,2010,12.92,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.114,0.32,Low,Moderate,Large
+Argentina,Americas,South_America,2010,12.92,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.112,0.36,Low,High,Very_Large
+Argentina,Americas,South_America,2010,12.92,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.088,0.17,Low,Very_Low,Medium
+Argentina,Americas,South_America,2011,12.998,FORD,SUBCOMPACT,224.6,9.76,3.27,0.147,0.33,Low,Low,Large
+Argentina,Americas,South_America,2011,12.998,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.216,0.51,Low,Low,Medium
+Argentina,Americas,South_America,2011,12.998,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.144,0.23,Low,Very_Low,Small
+Argentina,Americas,South_America,2012,12.734,CHEVROLET,FULL-SIZE,223.5,10.8,3.025,0.127,0.28,Low,Low,Large
+Argentina,Americas,South_America,2012,12.734,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.057,0.09,Low,Very_Low,Small
+Argentina,Americas,South_America,2012,12.734,CHEVROLET,SUV - SMALL,236.4545455,11.2,2.563636364,0.154,0.36,Low,Low,Large
+Argentina,Americas,South_America,2013,13.79,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.156,0.3,Low,Very_Low,Medium
+Argentina,Americas,South_America,2013,13.79,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.195,0.46,Low,Low,Medium
+Argentina,Americas,South_America,2013,13.79,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.147,0.4,Low,Moderate,Very_Large
+Argentina,Americas,South_America,2014,13.342,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.08,0.16,Low,Low,Medium
+Argentina,Americas,South_America,2014,13.342,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.125,0.29,Low,Low,Medium
+Argentina,Americas,South_America,2014,13.342,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.103,0.16,Low,Very_Low,Small
+Argentina,Americas,South_America,2015,13.94,VOLKSWAGEN,COMPACT,205.4,8.685,2.06,0.248,0.51,Low,Low,Medium
+Argentina,Americas,South_America,2015,13.94,FORD,SUBCOMPACT,224.6,9.76,3.27,0.149,0.33,Low,Low,Large
+Argentina,Americas,South_America,2015,13.94,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.074,0.22,Low,Moderate,Huge
+Argentina,Americas,South_America,2016,13.69,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.138,0.31,Low,Low,Large
+Argentina,Americas,South_America,2016,13.69,VOLKSWAGEN,MINIVAN,278,12.1,3.6,0.076,0.21,Low,Moderate,Very_Large
+Argentina,Americas,South_America,2016,13.69,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.116,0.46,Low,High,Huge
+Argentina,Americas,South_America,2017,13.008,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.115,0.46,Low,High,Huge
+Argentina,Americas,South_America,2017,13.008,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.195,0.29,Low,Very_Low,Small
+Argentina,Americas,South_America,2017,13.008,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.292,0.55,Low,Very_Low,Medium
+Argentina,Americas,South_America,2018,12.384,VOLKSWAGEN,COMPACT,205.4,8.685,2.06,0.206,0.42,Low,Low,Medium
+Argentina,Americas,South_America,2018,12.384,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.138,0.55,Low,High,Huge
+Argentina,Americas,South_America,2018,12.384,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.125,0.27,Low,Low,Medium
+Argentina,Americas,South_America,2019,11.832,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.131,0.3,Low,Low,Large
+Argentina,Americas,South_America,2019,11.832,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.137,0.4,Low,Moderate,Huge
+Argentina,Americas,South_America,2019,11.832,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.237,0.71,Low,High,Very_Large
+Australia,Western Pacific,Oceania,2010,8.926,FORD,SPECIAL PURPOSE VEHICLE,229.25,9.975,2.05,0.079,0.18,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2010,8.926,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.189,0.47,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2010,8.926,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.053,0.15,Very_Low,Moderate,Large
+Australia,Western Pacific,Oceania,2011,7.992,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.177,0.48,Very_Low,Moderate,Very_Large
+Australia,Western Pacific,Oceania,2011,7.992,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.082,0.19,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2011,7.992,TOYOTA,MINIVAN,272.5,11.85,3.5,0.13,0.35,Very_Low,Moderate,Large
+Australia,Western Pacific,Oceania,2012,7.242,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.185,0.5,Very_Low,Moderate,Very_Large
+Australia,Western Pacific,Oceania,2012,7.242,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.182,0.27,Very_Low,Very_Low,Small
+Australia,Western Pacific,Oceania,2012,7.242,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.062,0.2,Very_Low,High,Very_Large
+Australia,Western Pacific,Oceania,2013,7.168,MAZDA,COMPACT,166.5714286,7.242857143,2,0.225,0.37,Very_Low,Very_Low,Medium
+Australia,Western Pacific,Oceania,2013,7.168,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.275,0.52,Very_Low,Very_Low,Medium
+Australia,Western Pacific,Oceania,2013,7.168,FORD,VAN - CARGO,369.75,19.45,5,0.1,0.37,Very_Low,High,Very_Large
+Australia,Western Pacific,Oceania,2014,6.838,MAZDA,TWO-SEATER,228,9.9,2,0.146,0.33,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2014,6.838,MAZDA,SUV - SMALL,220.7142857,9.585714286,2.628571429,0.236,0.52,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2014,6.838,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.129,0.3,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2015,6.532,FORD,VAN - CARGO,369.75,19.45,5,0.144,0.53,Very_Low,High,Very_Large
+Australia,Western Pacific,Oceania,2015,6.532,FORD,SUBCOMPACT,224.6,9.76,3.27,0.054,0.12,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2015,6.532,FORD,SPECIAL PURPOSE VEHICLE,229.25,9.975,2.05,0.092,0.21,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2016,6.61,MAZDA,MID-SIZE,171.125,7.4375,2.3125,0.257,0.44,Very_Low,Very_Low,Medium
+Australia,Western Pacific,Oceania,2016,6.61,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.1,0.28,Very_Low,Moderate,Large
+Australia,Western Pacific,Oceania,2016,6.61,MAZDA,TWO-SEATER,228,9.9,2,0.089,0.2,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2017,6.828,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.145,0.28,Very_Low,Very_Low,Medium
+Australia,Western Pacific,Oceania,2017,6.828,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.128,0.29,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2017,6.828,FORD,SUBCOMPACT,224.6,9.76,3.27,0.061,0.14,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2018,7.054,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.121,0.34,Very_Low,Moderate,Large
+Australia,Western Pacific,Oceania,2018,7.054,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.058,0.18,Very_Low,High,Very_Large
+Australia,Western Pacific,Oceania,2018,7.054,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.113,0.32,Very_Low,Moderate,Very_Large
+Australia,Western Pacific,Oceania,2019,8.852,MAZDA,TWO-SEATER,228,9.9,2,0.107,0.24,Very_Low,Low,Medium
+Australia,Western Pacific,Oceania,2019,8.852,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.211,0.52,Very_Low,Low,Large
+Australia,Western Pacific,Oceania,2019,8.852,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.127,0.29,Very_Low,Low,Large
+Brazil,Americas,South_America,2010,14.318,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.158,0.43,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2010,14.318,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.211,0.61,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2010,14.318,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.142,0.56,Low,High,Huge
+Brazil,Americas,South_America,2011,14.566,FORD,COMPACT,175.7,8.89,1.96,0.26,0.46,Low,Very_Low,Medium
+Brazil,Americas,South_America,2011,14.566,TOYOTA,MINIVAN,272.5,11.85,3.5,0.066,0.18,Low,Moderate,Large
+Brazil,Americas,South_America,2011,14.566,FORD,SPECIAL PURPOSE VEHICLE,229.25,9.975,2.05,0.091,0.21,Low,Low,Medium
+Brazil,Americas,South_America,2012,13.852,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.095,0.38,Low,High,Huge
+Brazil,Americas,South_America,2012,13.852,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.063,0.18,Low,Moderate,Huge
+Brazil,Americas,South_America,2012,13.852,FORD,VAN - PASSENGER,409,20.64,5.36,0.145,0.59,Low,Very_High,Huge
+Brazil,Americas,South_America,2013,12.87,FORD,VAN - PASSENGER,409,20.64,5.36,0.105,0.43,Low,Very_High,Huge
+Brazil,Americas,South_America,2013,12.87,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.059,0.24,Low,High,Huge
+Brazil,Americas,South_America,2013,12.87,CHEVROLET,VAN - CARGO,359.6666667,18.55555556,5.188888889,0.123,0.44,Low,High,Huge
+Brazil,Americas,South_America,2014,13.002,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.325,0.54,Low,Very_Low,Medium
+Brazil,Americas,South_America,2014,13.002,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.177,0.51,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2014,13.002,CHEVROLET,COMPACT,244.6153846,10.63076923,3.446153846,0.345,0.84,Low,Low,Large
+Brazil,Americas,South_America,2015,11.804,VOLKSWAGEN,MINIVAN,278,12.1,3.6,0.087,0.24,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2015,11.804,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.173,0.52,Low,High,Very_Large
+Brazil,Americas,South_America,2015,11.804,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.112,0.23,Low,Low,Medium
+Brazil,Americas,South_America,2016,11.762,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.084,0.24,Low,Moderate,Huge
+Brazil,Americas,South_America,2016,11.762,FORD,VAN - PASSENGER,409,20.64,5.36,0.097,0.4,Low,Very_High,Huge
+Brazil,Americas,South_America,2016,11.762,CHEVROLET,TWO-SEATER,267,11.6,6.2,0.086,0.23,Low,Moderate,Huge
+Brazil,Americas,South_America,2017,14.57,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.16,0.43,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2017,14.57,TOYOTA,MINIVAN,272.5,11.85,3.5,0.147,0.4,Low,Moderate,Large
+Brazil,Americas,South_America,2017,14.57,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.23,0.57,Low,Low,Large
+Brazil,Americas,South_America,2018,10.922,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.149,0.42,Low,Moderate,Large
+Brazil,Americas,South_America,2018,10.922,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.148,0.43,Low,Moderate,Very_Large
+Brazil,Americas,South_America,2018,10.922,CHEVROLET,VAN - CARGO,359.6666667,18.55555556,5.188888889,0.131,0.47,Low,High,Huge
+Brazil,Americas,South_America,2019,10.722,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.135,0.34,Low,Low,Large
+Brazil,Americas,South_America,2019,10.722,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.113,0.45,Low,High,Huge
+Brazil,Americas,South_America,2019,10.722,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.236,0.71,Low,High,Very_Large
+Canada,Americas,North_America,2010,7.596,CHEVROLET,VAN - CARGO,359.6666667,18.55555556,5.188888889,0.107,0.39,Very_Low,High,Huge
+Canada,Americas,North_America,2010,7.596,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.15,0.34,Very_Low,Low,Large
+Canada,Americas,North_America,2010,7.596,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.125,0.5,Very_Low,High,Huge
+Canada,Americas,North_America,2011,7.712,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.127,0.38,Very_Low,High,Very_Large
+Canada,Americas,North_America,2011,7.712,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.141,0.25,Very_Low,Very_Low,Small
+Canada,Americas,North_America,2011,7.712,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.267,0.45,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2012,7.542,FORD,VAN - CARGO,369.75,19.45,5,0.062,0.23,Very_Low,High,Very_Large
+Canada,Americas,North_America,2012,7.542,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.135,0.41,Very_Low,High,Very_Large
+Canada,Americas,North_America,2012,7.542,FORD,VAN - PASSENGER,409,20.64,5.36,0.067,0.27,Very_Low,Very_High,Huge
+Canada,Americas,North_America,2013,7.25,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.128,0.41,Very_Low,High,Very_Large
+Canada,Americas,North_America,2013,7.25,HONDA,TWO-SEATER,152,6.6,1.5,0.078,0.12,Very_Low,Very_Low,Small
+Canada,Americas,North_America,2013,7.25,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.133,0.31,Very_Low,Low,Medium
+Canada,Americas,North_America,2014,7.134,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.136,0.4,Very_Low,Moderate,Huge
+Canada,Americas,North_America,2014,7.134,TOYOTA,MINIVAN,272.5,11.85,3.5,0.145,0.39,Very_Low,Moderate,Large
+Canada,Americas,North_America,2014,7.134,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.087,0.3,Very_Low,High,Very_Large
+Canada,Americas,North_America,2015,7.016,CHEVROLET,VAN - CARGO,359.6666667,18.55555556,5.188888889,0.124,0.44,Very_Low,High,Huge
+Canada,Americas,North_America,2015,7.016,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.32,0.53,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2015,7.016,TOYOTA,MINIVAN,272.5,11.85,3.5,0.062,0.17,Very_Low,Moderate,Large
+Canada,Americas,North_America,2016,6.18,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.127,0.3,Very_Low,Low,Medium
+Canada,Americas,North_America,2016,6.18,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.098,0.31,Very_Low,High,Very_Large
+Canada,Americas,North_America,2016,6.18,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.101,0.28,Very_Low,Moderate,Large
+Canada,Americas,North_America,2017,6.78,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.325,0.54,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2017,6.78,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.19,0.44,Very_Low,Low,Medium
+Canada,Americas,North_America,2017,6.78,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.11,0.21,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2018,6.962,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.105,0.26,Very_Low,Low,Large
+Canada,Americas,North_America,2018,6.962,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.202,0.38,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2018,6.962,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.11,0.31,Very_Low,Moderate,Large
+Canada,Americas,North_America,2019,6.264,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.167,0.32,Very_Low,Very_Low,Medium
+Canada,Americas,North_America,2019,6.264,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.146,0.42,Very_Low,Moderate,Huge
+Canada,Americas,North_America,2019,6.264,HONDA,MINIVAN,244,10.6,3.5,0.126,0.31,Very_Low,Low,Large
+China,Western Pacific,Asia_Developing,2010,47.052,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.12,0.37,Moderate,High,Large
+China,Western Pacific,Asia_Developing,2010,47.052,KIA,MID-SIZE,198.1666667,8.616666667,2,0.209,0.42,Moderate,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2010,47.052,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.239,0.65,Moderate,Moderate,Very_Large
+China,Western Pacific,Asia_Developing,2011,51.77,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.082,0.17,High,Low,Medium
+China,Western Pacific,Asia_Developing,2011,51.77,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.275,0.4,High,Very_Low,Small
+China,Western Pacific,Asia_Developing,2011,51.77,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.139,0.34,High,Low,Large
+China,Western Pacific,Asia_Developing,2012,53.272,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.092,0.26,High,Moderate,Large
+China,Western Pacific,Asia_Developing,2012,53.272,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.124,0.25,High,Low,Medium
+China,Western Pacific,Asia_Developing,2012,53.272,HONDA,SUV - SMALL,242.4,10.54,3.06,0.136,0.33,High,Low,Large
+China,Western Pacific,Asia_Developing,2013,64.728,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.138,0.28,High,Low,Medium
+China,Western Pacific,Asia_Developing,2013,64.728,HONDA,TWO-SEATER,152,6.6,1.5,0.11,0.17,High,Very_Low,Small
+China,Western Pacific,Asia_Developing,2013,64.728,HONDA,SUV - SMALL,242.4,10.54,3.06,0.236,0.57,High,Low,Large
+China,Western Pacific,Asia_Developing,2014,55.224,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.138,0.47,High,High,Very_Large
+China,Western Pacific,Asia_Developing,2014,55.224,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.143,0.3,High,Low,Medium
+China,Western Pacific,Asia_Developing,2014,55.224,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.349,0.68,High,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2015,51.58,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.32,0.62,High,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2015,51.58,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.157,0.23,High,Very_Low,Small
+China,Western Pacific,Asia_Developing,2015,51.58,HONDA,TWO-SEATER,152,6.6,1.5,0.083,0.13,High,Very_Low,Small
+China,Western Pacific,Asia_Developing,2016,47.44,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.199,0.54,Moderate,Moderate,Very_Large
+China,Western Pacific,Asia_Developing,2016,47.44,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.104,0.32,Moderate,High,Large
+China,Western Pacific,Asia_Developing,2016,47.44,HONDA,TWO-SEATER,152,6.6,1.5,0.136,0.21,Moderate,Very_Low,Small
+China,Western Pacific,Asia_Developing,2017,46.722,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.315,0.53,Moderate,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2017,46.722,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.176,0.34,Moderate,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2017,46.722,KIA,MINIVAN,276,12,3.5,0.084,0.23,Moderate,Moderate,Large
+China,Western Pacific,Asia_Developing,2018,40.382,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.228,0.38,Moderate,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2018,40.382,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.068,0.13,Moderate,Very_Low,Medium
+China,Western Pacific,Asia_Developing,2018,40.382,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.125,0.22,Moderate,Very_Low,Small
+China,Western Pacific,Asia_Developing,2019,37.998,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.087,0.19,Moderate,Low,Medium
+China,Western Pacific,Asia_Developing,2019,37.998,KIA,FULL-SIZE,217.6,9.46,2.1,0.132,0.29,Moderate,Low,Medium
+China,Western Pacific,Asia_Developing,2019,37.998,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.201,0.29,Moderate,Very_Low,Small
+France,Europe,Europe_Developed,2010,14.67,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.094,0.25,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2010,14.67,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.147,0.5,Low,High,Very_Large
+France,Europe,Europe_Developed,2010,14.67,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.082,0.23,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2011,14.946,AUDI,COMPACT,238.6,10.38,2.4,0.309,0.74,Low,Low,Medium
+France,Europe,Europe_Developed,2011,14.946,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.172,0.48,Low,Moderate,Large
+France,Europe,Europe_Developed,2011,14.946,BMW,COMPACT,235.3076923,10.18846154,2.938461538,0.173,0.41,Low,Low,Large
+France,Europe,Europe_Developed,2012,13.49,AUDI,SUV - STANDARD,299,12.05,3,0.122,0.36,Low,Moderate,Large
+France,Europe,Europe_Developed,2012,13.49,BMW,SUV - STANDARD,308.6,13.42,3.84,0.115,0.36,Low,High,Very_Large
+France,Europe,Europe_Developed,2012,13.49,BMW,SUV - SMALL,238,10.35,2.5,0.186,0.44,Low,Low,Medium
+France,Europe,Europe_Developed,2013,13.15,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.106,0.3,Low,Moderate,Large
+France,Europe,Europe_Developed,2013,13.15,VOLKSWAGEN,SUV - SMALL,253,11,2,0.201,0.51,Low,Moderate,Medium
+France,Europe,Europe_Developed,2013,13.15,AUDI,MID-SIZE,257.1666667,10.80833333,3.333333333,0.34,0.88,Low,Moderate,Large
+France,Europe,Europe_Developed,2014,12.064,MERCEDES-BENZ,STATION WAGON - MID-SIZE,287.3333333,12.5,4.833333333,0.056,0.16,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2014,12.064,BMW,TWO-SEATER,243.6,10.6,2.6,0.075,0.18,Low,Low,Large
+France,Europe,Europe_Developed,2014,12.064,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.124,0.42,Low,High,Very_Large
+France,Europe,Europe_Developed,2015,12.398,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.146,0.32,Low,Low,Medium
+France,Europe,Europe_Developed,2015,12.398,AUDI,FULL-SIZE,284.25,11.975,4.075,0.092,0.26,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2015,12.398,AUDI,SUV - STANDARD,299,12.05,3,0.227,0.68,Low,Moderate,Large
+France,Europe,Europe_Developed,2016,11.424,BMW,SUBCOMPACT,315.6666667,13.73333333,4.4,0.074,0.23,Low,High,Very_Large
+France,Europe,Europe_Developed,2016,11.424,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.216,0.53,Low,Low,Large
+France,Europe,Europe_Developed,2016,11.424,AUDI,COMPACT,238.6,10.38,2.4,0.231,0.55,Low,Low,Medium
+France,Europe,Europe_Developed,2017,11.47,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.127,0.23,Low,Very_Low,Medium
+France,Europe,Europe_Developed,2017,11.47,AUDI,TWO-SEATER,345.8,15.04,4.16,0.063,0.22,Low,High,Very_Large
+France,Europe,Europe_Developed,2017,11.47,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.147,0.3,Low,Low,Medium
+France,Europe,Europe_Developed,2018,11.406,AUDI,FULL-SIZE,284.25,11.975,4.075,0.106,0.3,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2018,11.406,AUDI,SUV - STANDARD,299,12.05,3,0.181,0.54,Low,Moderate,Large
+France,Europe,Europe_Developed,2018,11.406,VOLKSWAGEN,MINIVAN,278,12.1,3.6,0.053,0.15,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2019,10.62,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.103,0.3,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2019,10.62,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.063,0.18,Low,Moderate,Very_Large
+France,Europe,Europe_Developed,2019,10.62,AUDI,SUV - STANDARD,299,12.05,3,0.12,0.36,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2010,15.202,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.238,0.67,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2010,15.202,BMW,SUV - SMALL,238,10.35,2.5,0.19,0.45,Low,Low,Medium
+Germany,Europe,Europe_Developed,2010,15.202,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.241,0.81,Low,High,Very_Large
+Germany,Europe,Europe_Developed,2011,15.562,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.094,0.19,Low,Low,Medium
+Germany,Europe,Europe_Developed,2011,15.562,AUDI,TWO-SEATER,345.8,15.04,4.16,0.132,0.46,Low,High,Very_Large
+Germany,Europe,Europe_Developed,2011,15.562,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.062,0.17,Low,Moderate,Very_Large
+Germany,Europe,Europe_Developed,2012,13.882,AUDI,STATION WAGON - SMALL,242,10.5,2,0.084,0.2,Low,Low,Medium
+Germany,Europe,Europe_Developed,2012,13.882,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.157,0.44,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2012,13.882,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.16,0.39,Low,Low,Large
+Germany,Europe,Europe_Developed,2013,13.388,AUDI,SUV - STANDARD,299,12.05,3,0.193,0.58,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2013,13.388,AUDI,COMPACT,238.6,10.38,2.4,0.255,0.61,Low,Low,Medium
+Germany,Europe,Europe_Developed,2013,13.388,MERCEDES-BENZ,MID-SIZE,246,10.51428571,4.042857143,0.284,0.7,Low,Low,Very_Large
+Germany,Europe,Europe_Developed,2014,12.58,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.117,0.33,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2014,12.58,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.1,0.25,Low,Low,Large
+Germany,Europe,Europe_Developed,2014,12.58,AUDI,SUBCOMPACT,254.8,11.08,2.74,0.114,0.29,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2015,12.752,BMW,SUV - SMALL,238,10.35,2.5,0.133,0.32,Low,Low,Medium
+Germany,Europe,Europe_Developed,2015,12.752,AUDI,SUV - SMALL,249.4,10.52,2.6,0.114,0.29,Low,Low,Large
+Germany,Europe,Europe_Developed,2015,12.752,VOLKSWAGEN,SUV - SMALL,253,11,2,0.104,0.26,Low,Moderate,Medium
+Germany,Europe,Europe_Developed,2016,11.754,BMW,STATION WAGON - SMALL,195,7.9,2,0.11,0.21,Low,Very_Low,Medium
+Germany,Europe,Europe_Developed,2016,11.754,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.09,0.26,Low,Moderate,Very_Large
+Germany,Europe,Europe_Developed,2016,11.754,VOLKSWAGEN,SUV - STANDARD,281,11.3,3.3,0.155,0.44,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2017,11.874,BMW,SUV - STANDARD,308.6,13.42,3.84,0.109,0.34,Low,High,Very_Large
+Germany,Europe,Europe_Developed,2017,11.874,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.106,0.22,Low,Low,Medium
+Germany,Europe,Europe_Developed,2017,11.874,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.146,0.42,Low,Moderate,Very_Large
+Germany,Europe,Europe_Developed,2018,11.788,BMW,MID-SIZE,250.75,10.7375,3.275,0.169,0.42,Low,Moderate,Large
+Germany,Europe,Europe_Developed,2018,11.788,BMW,COMPACT,235.3076923,10.18846154,2.938461538,0.201,0.47,Low,Low,Large
+Germany,Europe,Europe_Developed,2018,11.788,AUDI,FULL-SIZE,284.25,11.975,4.075,0.129,0.37,Low,Moderate,Very_Large
+Germany,Europe,Europe_Developed,2019,10.814,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.249,0.84,Low,High,Very_Large
+Germany,Europe,Europe_Developed,2019,10.814,VOLKSWAGEN,COMPACT,205.4,8.685,2.06,0.32,0.66,Low,Low,Medium
+Germany,Europe,Europe_Developed,2019,10.814,AUDI,SUBCOMPACT,254.8,11.08,2.74,0.071,0.18,Low,Moderate,Large
+India,South-East Asia,Asia_Developing,2010,55.966,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.265,0.49,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2010,55.966,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.246,0.41,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2010,55.966,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.213,0.41,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2011,55.844,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.251,0.43,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2011,55.844,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.238,0.35,High,Very_Low,Small
+India,South-East Asia,Asia_Developing,2011,55.844,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.171,0.33,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2012,56.494,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.115,0.31,High,Moderate,Very_Large
+India,South-East Asia,Asia_Developing,2012,56.494,KIA,SUV - SMALL,252.625,10.9875,2.575,0.204,0.51,High,Moderate,Large
+India,South-East Asia,Asia_Developing,2012,56.494,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.056,0.12,High,Low,Medium
+India,South-East Asia,Asia_Developing,2013,59.028,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.177,0.3,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2013,59.028,KIA,FULL-SIZE,217.6,9.46,2.1,0.092,0.2,High,Low,Medium
+India,South-East Asia,Asia_Developing,2013,59.028,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.308,0.6,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2014,56.67,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.199,0.38,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2014,56.67,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.115,0.25,High,Low,Medium
+India,South-East Asia,Asia_Developing,2014,56.67,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.131,0.32,High,Low,Large
+India,South-East Asia,Asia_Developing,2015,56.254,KIA,MID-SIZE,198.1666667,8.616666667,2,0.277,0.55,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2015,56.254,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.273,0.4,High,Very_Low,Small
+India,South-East Asia,Asia_Developing,2015,56.254,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.11,0.27,High,Low,Large
+India,South-East Asia,Asia_Developing,2016,53.732,HONDA,SUV - SMALL,242.4,10.54,3.06,0.199,0.48,High,Low,Large
+India,South-East Asia,Asia_Developing,2016,53.732,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.187,0.32,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2016,53.732,HONDA,TWO-SEATER,152,6.6,1.5,0.067,0.1,High,Very_Low,Small
+India,South-East Asia,Asia_Developing,2017,52,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.234,0.58,High,Low,Large
+India,South-East Asia,Asia_Developing,2017,52,TOYOTA,MINIVAN,272.5,11.85,3.5,0.082,0.22,High,Moderate,Large
+India,South-East Asia,Asia_Developing,2017,52,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.175,0.34,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2018,56.232,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.051,0.09,High,Very_Low,Small
+India,South-East Asia,Asia_Developing,2018,56.232,KIA,SUV - SMALL,252.625,10.9875,2.575,0.249,0.63,High,Moderate,Large
+India,South-East Asia,Asia_Developing,2018,56.232,HONDA,MINIVAN,244,10.6,3.5,0.117,0.29,High,Low,Large
+India,South-East Asia,Asia_Developing,2019,50.87,HONDA,MINIVAN,244,10.6,3.5,0.119,0.29,High,Low,Large
+India,South-East Asia,Asia_Developing,2019,50.87,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.168,0.28,High,Very_Low,Medium
+India,South-East Asia,Asia_Developing,2019,50.87,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.147,0.31,High,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2010,20.674,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.138,0.28,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2010,20.674,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.282,0.55,Low,Very_Low,Large
+Indonesia,South-East Asia,Asia_Developing,2010,20.674,HONDA,SUV - SMALL,242.4,10.54,3.06,0.147,0.36,Low,Low,Large
+Indonesia,South-East Asia,Asia_Developing,2011,19.168,KIA,SUV - SMALL,252.625,10.9875,2.575,0.158,0.4,Low,Moderate,Large
+Indonesia,South-East Asia,Asia_Developing,2011,19.168,HYUNDAI,SUV - SMALL,244.3,10.62,2.42,0.197,0.48,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2011,19.168,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.128,0.26,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2012,20.322,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.073,0.15,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2012,20.322,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.291,0.56,Low,Very_Low,Large
+Indonesia,South-East Asia,Asia_Developing,2012,20.322,HYUNDAI,SUV - SMALL,244.3,10.62,2.42,0.108,0.26,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2013,20.974,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.15,0.37,Low,Low,Large
+Indonesia,South-East Asia,Asia_Developing,2013,20.974,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.143,0.31,Low,Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2013,20.974,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.114,0.32,Low,Moderate,Large
+Indonesia,South-East Asia,Asia_Developing,2014,18.908,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.077,0.27,Low,High,Very_Large
+Indonesia,South-East Asia,Asia_Developing,2014,18.908,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.102,0.13,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2014,18.908,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.145,0.39,Low,Moderate,Very_Large
+Indonesia,South-East Asia,Asia_Developing,2015,19.362,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.063,0.18,Low,Moderate,Large
+Indonesia,South-East Asia,Asia_Developing,2015,19.362,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.09,0.22,Low,Low,Large
+Indonesia,South-East Asia,Asia_Developing,2015,19.362,KIA,MINIVAN,276,12,3.5,0.142,0.39,Low,Moderate,Large
+Indonesia,South-East Asia,Asia_Developing,2016,20.862,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.103,0.18,Low,Very_Low,Small
+Indonesia,South-East Asia,Asia_Developing,2016,20.862,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.162,0.44,Low,Moderate,Very_Large
+Indonesia,South-East Asia,Asia_Developing,2016,20.862,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.219,0.37,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2017,18.458,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.272,0.5,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2017,18.458,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.085,0.26,Low,High,Large
+Indonesia,South-East Asia,Asia_Developing,2017,18.458,HONDA,SUV - SMALL,242.4,10.54,3.06,0.117,0.28,Low,Low,Large
+Indonesia,South-East Asia,Asia_Developing,2018,18.5,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.193,0.36,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2018,18.5,HONDA,MINIVAN,244,10.6,3.5,0.06,0.15,Low,Low,Large
+Indonesia,South-East Asia,Asia_Developing,2018,18.5,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.136,0.26,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2019,19.35,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.242,0.65,Low,Moderate,Very_Large
+Indonesia,South-East Asia,Asia_Developing,2019,19.35,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.262,0.44,Low,Very_Low,Medium
+Indonesia,South-East Asia,Asia_Developing,2019,19.35,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.3,0.58,Low,Very_Low,Large
+Italy,Europe,Europe_Developed,2010,20.002,BMW,SUV - SMALL,238,10.35,2.5,0.22,0.52,Low,Low,Medium
+Italy,Europe,Europe_Developed,2010,20.002,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.09,0.19,Low,Low,Medium
+Italy,Europe,Europe_Developed,2010,20.002,BMW,SUV - STANDARD,308.6,13.42,3.84,0.237,0.73,Low,High,Very_Large
+Italy,Europe,Europe_Developed,2011,20.616,BMW,COMPACT,235.3076923,10.18846154,2.938461538,0.298,0.7,Low,Low,Large
+Italy,Europe,Europe_Developed,2011,20.616,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.082,0.24,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2011,20.616,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.149,0.27,Low,Very_Low,Medium
+Italy,Europe,Europe_Developed,2012,18.422,BMW,SUV - SMALL,238,10.35,2.5,0.198,0.47,Low,Low,Medium
+Italy,Europe,Europe_Developed,2012,18.422,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.081,0.23,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2012,18.422,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.075,0.2,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2013,17.812,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.067,0.19,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2013,17.812,VOLKSWAGEN,MID-SIZE,209.7142857,8.771428571,2.314285714,0.281,0.59,Low,Low,Medium
+Italy,Europe,Europe_Developed,2013,17.812,AUDI,TWO-SEATER,345.8,15.04,4.16,0.149,0.52,Low,High,Very_Large
+Italy,Europe,Europe_Developed,2014,16.602,MERCEDES-BENZ,MID-SIZE,246,10.51428571,4.042857143,0.226,0.56,Low,Low,Very_Large
+Italy,Europe,Europe_Developed,2014,16.602,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.073,0.21,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2014,16.602,BMW,MID-SIZE,250.75,10.7375,3.275,0.226,0.57,Low,Moderate,Large
+Italy,Europe,Europe_Developed,2015,17.188,VOLKSWAGEN,COMPACT,205.4,8.685,2.06,0.159,0.33,Low,Low,Medium
+Italy,Europe,Europe_Developed,2015,17.188,AUDI,FULL-SIZE,284.25,11.975,4.075,0.107,0.3,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2015,17.188,MERCEDES-BENZ,SUBCOMPACT,255.3333333,11.1,3.877777778,0.078,0.2,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2016,15.74,AUDI,SUV - SMALL,249.4,10.52,2.6,0.117,0.29,Low,Low,Large
+Italy,Europe,Europe_Developed,2016,15.74,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.059,0.16,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2016,15.74,MERCEDES-BENZ,COMPACT,259.9230769,11.63076923,3.992307692,0.332,0.86,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2017,15.654,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.063,0.13,Low,Low,Medium
+Italy,Europe,Europe_Developed,2017,15.654,BMW,MID-SIZE,250.75,10.7375,3.275,0.197,0.49,Low,Moderate,Large
+Italy,Europe,Europe_Developed,2017,15.654,AUDI,SUV - STANDARD,299,12.05,3,0.218,0.65,Low,Moderate,Large
+Italy,Europe,Europe_Developed,2018,15.892,AUDI,SUV - STANDARD,299,12.05,3,0.167,0.5,Low,Moderate,Large
+Italy,Europe,Europe_Developed,2018,15.892,MERCEDES-BENZ,MID-SIZE,246,10.51428571,4.042857143,0.245,0.6,Low,Low,Very_Large
+Italy,Europe,Europe_Developed,2018,15.892,VOLKSWAGEN,MID-SIZE,209.7142857,8.771428571,2.314285714,0.268,0.56,Low,Low,Medium
+Italy,Europe,Europe_Developed,2019,14.154,VOLKSWAGEN,SUV - SMALL,253,11,2,0.249,0.63,Low,Moderate,Medium
+Italy,Europe,Europe_Developed,2019,14.154,AUDI,FULL-SIZE,284.25,11.975,4.075,0.063,0.18,Low,Moderate,Very_Large
+Italy,Europe,Europe_Developed,2019,14.154,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.141,0.35,Low,Low,Large
+Japan,Western Pacific,Asia_Developed,2010,14.042,HONDA,SUV - SMALL,242.4,10.54,3.06,0.118,0.29,Low,Low,Large
+Japan,Western Pacific,Asia_Developed,2010,14.042,NISSAN,SPECIAL PURPOSE VEHICLE,214,9.3,2,0.092,0.2,Low,Low,Medium
+Japan,Western Pacific,Asia_Developed,2010,14.042,NISSAN,TWO-SEATER,262,11.4,3.7,0.125,0.33,Low,Moderate,Very_Large
+Japan,Western Pacific,Asia_Developed,2011,13.736,NISSAN,SPECIAL PURPOSE VEHICLE,214,9.3,2,0.133,0.28,Low,Low,Medium
+Japan,Western Pacific,Asia_Developed,2011,13.736,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.348,0.65,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2011,13.736,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.223,0.6,Low,Moderate,Very_Large
+Japan,Western Pacific,Asia_Developed,2012,12.22,TOYOTA,MINIVAN,272.5,11.85,3.5,0.093,0.25,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2012,12.22,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.082,0.23,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2012,12.22,NISSAN,STATION WAGON - SMALL,194.6666667,8.466666667,1.6,0.108,0.21,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2013,13.278,NISSAN,COMPACT,164.5,7.15,1.6,0.171,0.28,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2013,13.278,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.183,0.34,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2013,13.278,NISSAN,SUV - STANDARD,291,12.65,4.05,0.246,0.72,Low,Moderate,Very_Large
+Japan,Western Pacific,Asia_Developed,2014,13.25,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.059,0.14,Low,Low,Large
+Japan,Western Pacific,Asia_Developed,2014,13.25,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.271,0.5,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2014,13.25,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.18,0.3,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2015,12.598,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.065,0.13,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2015,12.598,NISSAN,PICKUP TRUCK - SMALL,290.2,12.62,3.4,0.132,0.38,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2015,12.598,HONDA,SUV - SMALL,242.4,10.54,3.06,0.131,0.32,Low,Low,Large
+Japan,Western Pacific,Asia_Developed,2016,12.394,NISSAN,SUV - STANDARD,291,12.65,4.05,0.141,0.41,Low,Moderate,Very_Large
+Japan,Western Pacific,Asia_Developed,2016,12.394,NISSAN,MID-SIZE,196,8.52,2.62,0.325,0.64,Low,Very_Low,Large
+Japan,Western Pacific,Asia_Developed,2016,12.394,NISSAN,SUV - SMALL,257,11.17142857,3.357142857,0.242,0.62,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2017,11.748,NISSAN,STATION WAGON - SMALL,194.6666667,8.466666667,1.6,0.056,0.11,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2017,11.748,TOYOTA,MINIVAN,272.5,11.85,3.5,0.05,0.14,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2017,11.748,NISSAN,SUV - STANDARD,291,12.65,4.05,0.196,0.57,Low,Moderate,Very_Large
+Japan,Western Pacific,Asia_Developed,2018,10.74,HONDA,TWO-SEATER,152,6.6,1.5,0.149,0.23,Low,Very_Low,Small
+Japan,Western Pacific,Asia_Developed,2018,10.74,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.059,0.18,Low,High,Large
+Japan,Western Pacific,Asia_Developed,2018,10.74,TOYOTA,MINIVAN,272.5,11.85,3.5,0.05,0.14,Low,Moderate,Large
+Japan,Western Pacific,Asia_Developed,2019,10.714,NISSAN,COMPACT,164.5,7.15,1.6,0.164,0.27,Low,Very_Low,Medium
+Japan,Western Pacific,Asia_Developed,2019,10.714,HYUNDAI,SUV - SMALL,244.3,10.62,2.42,0.243,0.59,Low,Low,Medium
+Japan,Western Pacific,Asia_Developed,2019,10.714,NISSAN,SUV - SMALL,257,11.17142857,3.357142857,0.178,0.46,Low,Moderate,Large
+Mexico,Americas,North_America,2010,21.648,CHEVROLET,VAN - PASSENGER,399,20.25,5.48,0.095,0.38,Low,High,Huge
+Mexico,Americas,North_America,2010,21.648,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.109,0.3,Low,Moderate,Large
+Mexico,Americas,North_America,2010,21.648,CHEVROLET,PICKUP TRUCK - STANDARD,290.6,14.73,5.08,0.112,0.33,Low,Moderate,Huge
+Mexico,Americas,North_America,2011,23.01,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.05,0.08,Low,Very_Low,Small
+Mexico,Americas,North_America,2011,23.01,HONDA,SUV - SMALL,242.4,10.54,3.06,0.137,0.33,Low,Low,Large
+Mexico,Americas,North_America,2011,23.01,FORD,SUBCOMPACT,224.6,9.76,3.27,0.124,0.28,Low,Low,Large
+Mexico,Americas,North_America,2012,21.76,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.293,0.49,Low,Very_Low,Medium
+Mexico,Americas,North_America,2012,21.76,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.117,0.36,Low,High,Large
+Mexico,Americas,North_America,2012,21.76,FORD,VAN - PASSENGER,409,20.64,5.36,0.147,0.6,Low,Very_High,Huge
+Mexico,Americas,North_America,2013,22.714,CHEVROLET,COMPACT,244.6153846,10.63076923,3.446153846,0.192,0.47,Low,Low,Large
+Mexico,Americas,North_America,2013,22.714,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.116,0.36,Low,High,Large
+Mexico,Americas,North_America,2013,22.714,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.244,0.46,Low,Very_Low,Medium
+Mexico,Americas,North_America,2014,21.086,FORD,SUBCOMPACT,224.6,9.76,3.27,0.053,0.12,Low,Low,Large
+Mexico,Americas,North_America,2014,21.086,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.297,0.43,Low,Very_Low,Small
+Mexico,Americas,North_America,2014,21.086,TOYOTA,MINIVAN,272.5,11.85,3.5,0.083,0.23,Low,Moderate,Large
+Mexico,Americas,North_America,2015,21.336,FORD,PICKUP TRUCK - STANDARD,317.4782609,15.76956522,4.443478261,0.115,0.36,Low,High,Very_Large
+Mexico,Americas,North_America,2015,21.336,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.147,0.28,Low,Very_Low,Medium
+Mexico,Americas,North_America,2015,21.336,CHEVROLET,MID-SIZE,186.3333333,8.02,1.66,0.319,0.6,Low,Very_Low,Medium
+Mexico,Americas,North_America,2016,20.774,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.07,0.14,Low,Very_Low,Medium
+Mexico,Americas,North_America,2016,20.774,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.209,0.52,Low,Low,Large
+Mexico,Americas,North_America,2016,20.774,CHEVROLET,SUV - SMALL,236.4545455,11.2,2.563636364,0.193,0.46,Low,Low,Large
+Mexico,Americas,North_America,2017,19.992,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.214,0.65,Low,High,Very_Large
+Mexico,Americas,North_America,2017,19.992,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.085,0.26,Low,High,Large
+Mexico,Americas,North_America,2017,19.992,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.34,0.66,Low,Very_Low,Large
+Mexico,Americas,North_America,2018,18.334,FORD,VAN - PASSENGER,409,20.64,5.36,0.094,0.38,Low,Very_High,Huge
+Mexico,Americas,North_America,2018,18.334,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.189,0.51,Low,Moderate,Very_Large
+Mexico,Americas,North_America,2018,18.334,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.111,0.33,Low,High,Very_Large
+Mexico,Americas,North_America,2019,17.438,CHEVROLET,VAN - CARGO,359.6666667,18.55555556,5.188888889,0.051,0.18,Low,High,Huge
+Mexico,Americas,North_America,2019,17.438,CHEVROLET,MID-SIZE,186.3333333,8.02,1.66,0.221,0.41,Low,Very_Low,Medium
+Mexico,Americas,North_America,2019,17.438,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.239,0.65,Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2010,9.35,MAZDA,MID-SIZE,171.125,7.4375,2.3125,0.253,0.43,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2010,9.35,MAZDA,SUV - SMALL,220.7142857,9.585714286,2.628571429,0.172,0.38,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2010,9.35,TOYOTA,MINIVAN,272.5,11.85,3.5,0.114,0.31,Very_Low,Moderate,Large
+New Zealand,Western Pacific,Oceania,2011,8.536,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.115,0.29,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2011,8.536,FORD,VAN - CARGO,369.75,19.45,5,0.101,0.37,Very_Low,High,Very_Large
+New Zealand,Western Pacific,Oceania,2011,8.536,FORD,SUBCOMPACT,224.6,9.76,3.27,0.072,0.16,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2012,7.674,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.214,0.5,Very_Low,Low,Medium
+New Zealand,Western Pacific,Oceania,2012,7.674,MAZDA,SUV - SMALL,220.7142857,9.585714286,2.628571429,0.223,0.49,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2012,7.674,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.139,0.27,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2013,7.508,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.123,0.28,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2013,7.508,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.305,0.51,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2013,7.508,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.085,0.11,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2014,7.196,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.1,0.27,Very_Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2014,7.196,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.209,0.6,Very_Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2014,7.196,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.245,0.61,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2015,6.938,MAZDA,SUV - SMALL,220.7142857,9.585714286,2.628571429,0.112,0.25,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2015,6.938,FORD,FULL-SIZE,227.5714286,11.2,3.071428571,0.104,0.24,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2015,6.938,FORD,COMPACT,175.7,8.89,1.96,0.292,0.51,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2016,6.906,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.167,0.45,Very_Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2016,6.906,MAZDA,MINIVAN,224,9.75,2.5,0.066,0.15,Very_Low,Low,Medium
+New Zealand,Western Pacific,Oceania,2016,6.906,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.068,0.23,Very_Low,High,Very_Large
+New Zealand,Western Pacific,Oceania,2017,7.146,TOYOTA,MINIVAN,272.5,11.85,3.5,0.145,0.39,Very_Low,Moderate,Large
+New Zealand,Western Pacific,Oceania,2017,7.146,MAZDA,MID-SIZE,171.125,7.4375,2.3125,0.249,0.43,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2017,7.146,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.157,0.45,Very_Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2018,7.448,FORD,SUBCOMPACT,224.6,9.76,3.27,0.055,0.12,Very_Low,Low,Large
+New Zealand,Western Pacific,Oceania,2018,7.448,MAZDA,MID-SIZE,171.125,7.4375,2.3125,0.251,0.43,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2018,7.448,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.208,0.56,Very_Low,Moderate,Very_Large
+New Zealand,Western Pacific,Oceania,2019,8.616,MAZDA,TWO-SEATER,228,9.9,2,0.112,0.26,Very_Low,Low,Medium
+New Zealand,Western Pacific,Oceania,2019,8.616,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.107,0.21,Very_Low,Very_Low,Medium
+New Zealand,Western Pacific,Oceania,2019,8.616,MAZDA,SUV - SMALL,220.7142857,9.585714286,2.628571429,0.225,0.5,Very_Low,Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2010,29.666,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.056,0.17,Moderate,High,Large
+Republic of Korea,Western Pacific,Asia_Developed,2010,29.666,NISSAN,MID-SIZE,196,8.52,2.62,0.225,0.44,Moderate,Very_Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2010,29.666,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.339,0.58,Moderate,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2011,29.204,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.092,0.12,Moderate,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2011,29.204,HONDA,MINIVAN,244,10.6,3.5,0.085,0.21,Moderate,Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2011,29.204,NISSAN,SPECIAL PURPOSE VEHICLE,214,9.3,2,0.09,0.19,Moderate,Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2012,26.046,NISSAN,MINIVAN,255,11.1,3.5,0.117,0.3,Moderate,Moderate,Large
+Republic of Korea,Western Pacific,Asia_Developed,2012,26.046,NISSAN,SPECIAL PURPOSE VEHICLE,214,9.3,2,0.108,0.23,Moderate,Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2012,26.046,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.255,0.43,Moderate,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2013,28.402,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.112,0.19,Moderate,Very_Low,Small
+Republic of Korea,Western Pacific,Asia_Developed,2013,28.402,HYUNDAI,SUV - SMALL,244.3,10.62,2.42,0.211,0.52,Moderate,Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2013,28.402,HONDA,SUV - SMALL,242.4,10.54,3.06,0.132,0.32,Moderate,Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2014,28.808,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.165,0.28,Moderate,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2014,28.808,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.237,0.64,Moderate,Moderate,Very_Large
+Republic of Korea,Western Pacific,Asia_Developed,2014,28.808,NISSAN,COMPACT,164.5,7.15,1.6,0.221,0.36,Moderate,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2015,27.464,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.108,0.19,Moderate,Very_Low,Small
+Republic of Korea,Western Pacific,Asia_Developed,2015,27.464,NISSAN,SPECIAL PURPOSE VEHICLE,214,9.3,2,0.104,0.22,Moderate,Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2015,27.464,NISSAN,SUV - STANDARD,291,12.65,4.05,0.14,0.41,Moderate,Moderate,Very_Large
+Republic of Korea,Western Pacific,Asia_Developed,2016,27.118,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.239,0.59,Moderate,Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2016,27.118,HONDA,TWO-SEATER,152,6.6,1.5,0.061,0.09,Moderate,Very_Low,Small
+Republic of Korea,Western Pacific,Asia_Developed,2016,27.118,NISSAN,MINIVAN,255,11.1,3.5,0.126,0.32,Moderate,Moderate,Large
+Republic of Korea,Western Pacific,Asia_Developed,2017,25.716,NISSAN,SUV - SMALL,257,11.17142857,3.357142857,0.138,0.36,Moderate,Moderate,Large
+Republic of Korea,Western Pacific,Asia_Developed,2017,25.716,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.124,0.3,Moderate,Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2017,25.716,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.165,0.32,Moderate,Very_Low,Large
+Republic of Korea,Western Pacific,Asia_Developed,2018,23.58,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.152,0.41,Low,Moderate,Very_Large
+Republic of Korea,Western Pacific,Asia_Developed,2018,23.58,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.096,0.27,Low,Moderate,Large
+Republic of Korea,Western Pacific,Asia_Developed,2018,23.58,NISSAN,SUV - SMALL,257,11.17142857,3.357142857,0.162,0.42,Low,Moderate,Large
+Republic of Korea,Western Pacific,Asia_Developed,2019,23.928,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.113,0.22,Low,Very_Low,Medium
+Republic of Korea,Western Pacific,Asia_Developed,2019,23.928,NISSAN,SUV - STANDARD,291,12.65,4.05,0.187,0.55,Low,Moderate,Very_Large
+Republic of Korea,Western Pacific,Asia_Developed,2019,23.928,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.062,0.19,Low,High,Large
+Singapore,Western Pacific,Asia_Developed,2010,15.8425,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.113,0.32,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2010,15.8425,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.103,0.32,Low,High,Large
+Singapore,Western Pacific,Asia_Developed,2010,15.8425,HONDA,SUV - SMALL,242.4,10.54,3.06,0.117,0.28,Low,Low,Large
+Singapore,Western Pacific,Asia_Developed,2011,15.505,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.301,0.56,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2011,15.505,HONDA,SUV - SMALL,242.4,10.54,3.06,0.17,0.41,Low,Low,Large
+Singapore,Western Pacific,Asia_Developed,2011,15.505,NISSAN,COMPACT,164.5,7.15,1.6,0.325,0.53,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2012,14.2425,NISSAN,STATION WAGON - SMALL,194.6666667,8.466666667,1.6,0.147,0.29,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2012,14.2425,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.057,0.19,Low,High,Very_Large
+Singapore,Western Pacific,Asia_Developed,2012,14.2425,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.28,0.47,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2013,15.5375,HONDA,SUV - SMALL,242.4,10.54,3.06,0.11,0.27,Low,Low,Large
+Singapore,Western Pacific,Asia_Developed,2013,15.5375,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.127,0.22,Low,Very_Low,Small
+Singapore,Western Pacific,Asia_Developed,2013,15.5375,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.267,0.45,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2014,15.5875,NISSAN,MINIVAN,255,11.1,3.5,0.122,0.31,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2014,15.5875,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.204,0.34,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2014,15.5875,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.19,0.35,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2015,15.1475,NISSAN,MINIVAN,255,11.1,3.5,0.133,0.34,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2015,15.1475,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.096,0.3,Low,High,Large
+Singapore,Western Pacific,Asia_Developed,2015,15.1475,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.078,0.1,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2016,14.5025,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.14,0.34,Low,Low,Large
+Singapore,Western Pacific,Asia_Developed,2016,14.5025,NISSAN,MINIVAN,255,11.1,3.5,0.139,0.35,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2016,14.5025,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.215,0.31,Low,Very_Low,Small
+Singapore,Western Pacific,Asia_Developed,2017,13.325,TOYOTA,MINIVAN,272.5,11.85,3.5,0.052,0.14,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2017,13.325,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.103,0.25,Low,Low,Large
+Singapore,Western Pacific,Asia_Developed,2017,13.325,NISSAN,SUBCOMPACT,297,12.9,3.8,0.142,0.42,Low,Moderate,Very_Large
+Singapore,Western Pacific,Asia_Developed,2018,12.29,NISSAN,TWO-SEATER,262,11.4,3.7,0.071,0.19,Low,Moderate,Very_Large
+Singapore,Western Pacific,Asia_Developed,2018,12.29,NISSAN,MINIVAN,255,11.1,3.5,0.15,0.38,Low,Moderate,Large
+Singapore,Western Pacific,Asia_Developed,2018,12.29,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.346,0.58,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2019,12.4925,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.108,0.21,Low,Very_Low,Medium
+Singapore,Western Pacific,Asia_Developed,2019,12.4925,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.095,0.33,Low,High,Very_Large
+Singapore,Western Pacific,Asia_Developed,2019,12.4925,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.34,0.66,Low,Very_Low,Large
+Spain,Europe,Europe_Developed,2010,12.728,AUDI,SUV - STANDARD,299,12.05,3,0.135,0.4,Low,Moderate,Large
+Spain,Europe,Europe_Developed,2010,12.728,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.237,0.8,Low,High,Very_Large
+Spain,Europe,Europe_Developed,2010,12.728,BMW,SUV - SMALL,238,10.35,2.5,0.192,0.46,Low,Low,Medium
+Spain,Europe,Europe_Developed,2011,13.094,AUDI,SUV - SMALL,249.4,10.52,2.6,0.146,0.36,Low,Low,Large
+Spain,Europe,Europe_Developed,2011,13.094,MERCEDES-BENZ,STATION WAGON - MID-SIZE,287.3333333,12.5,4.833333333,0.105,0.3,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2011,13.094,AUDI,FULL-SIZE,284.25,11.975,4.075,0.129,0.37,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2012,11.84,BMW,SUV - SMALL,238,10.35,2.5,0.109,0.26,Low,Low,Medium
+Spain,Europe,Europe_Developed,2012,11.84,MERCEDES-BENZ,MID-SIZE,246,10.51428571,4.042857143,0.192,0.47,Low,Low,Very_Large
+Spain,Europe,Europe_Developed,2012,11.84,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.131,0.28,Low,Low,Medium
+Spain,Europe,Europe_Developed,2013,11.224,AUDI,STATION WAGON - SMALL,242,10.5,2,0.092,0.22,Low,Low,Medium
+Spain,Europe,Europe_Developed,2013,11.224,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.096,0.18,Low,Very_Low,Medium
+Spain,Europe,Europe_Developed,2013,11.224,MERCEDES-BENZ,STATION WAGON - MID-SIZE,287.3333333,12.5,4.833333333,0.123,0.35,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2014,10.314,MERCEDES-BENZ,STATION WAGON - MID-SIZE,287.3333333,12.5,4.833333333,0.07,0.2,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2014,10.314,AUDI,SUBCOMPACT,254.8,11.08,2.74,0.145,0.37,Low,Moderate,Large
+Spain,Europe,Europe_Developed,2014,10.314,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.068,0.19,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2015,11.114,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.059,0.16,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2015,11.114,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.106,0.23,Low,Low,Medium
+Spain,Europe,Europe_Developed,2015,11.114,AUDI,SUBCOMPACT,254.8,11.08,2.74,0.135,0.34,Low,Moderate,Large
+Spain,Europe,Europe_Developed,2016,10.044,AUDI,MID-SIZE,257.1666667,10.80833333,3.333333333,0.158,0.41,Low,Moderate,Large
+Spain,Europe,Europe_Developed,2016,10.044,BMW,STATION WAGON - SMALL,195,7.9,2,0.079,0.15,Low,Very_Low,Medium
+Spain,Europe,Europe_Developed,2016,10.044,AUDI,TWO-SEATER,345.8,15.04,4.16,0.071,0.24,Low,High,Very_Large
+Spain,Europe,Europe_Developed,2017,10.21,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.175,0.59,Low,High,Very_Large
+Spain,Europe,Europe_Developed,2017,10.21,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.055,0.15,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2017,10.21,VOLKSWAGEN,SUV - SMALL,253,11,2,0.105,0.27,Low,Moderate,Medium
+Spain,Europe,Europe_Developed,2018,10.08,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.127,0.23,Low,Very_Low,Medium
+Spain,Europe,Europe_Developed,2018,10.08,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.074,0.2,Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2018,10.08,AUDI,STATION WAGON - SMALL,242,10.5,2,0.118,0.28,Low,Low,Medium
+Spain,Europe,Europe_Developed,2019,9.344,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.135,0.39,Very_Low,Moderate,Very_Large
+Spain,Europe,Europe_Developed,2019,9.344,BMW,SUV - SMALL,238,10.35,2.5,0.242,0.58,Very_Low,Low,Medium
+Spain,Europe,Europe_Developed,2019,9.344,BMW,STATION WAGON - SMALL,195,7.9,2,0.138,0.27,Very_Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2010,26.652,HONDA,TWO-SEATER,152,6.6,1.5,0.066,0.1,Moderate,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2010,26.652,TOYOTA,SUV - SMALL,248.0909091,10.78181818,3.1,0.136,0.34,Moderate,Low,Large
+Thailand,South-East Asia,Asia_Developing,2010,26.652,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.121,0.21,Moderate,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2011,24.492,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.329,0.64,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2011,24.492,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.141,0.3,Low,Low,Medium
+Thailand,South-East Asia,Asia_Developing,2011,24.492,HONDA,TWO-SEATER,152,6.6,1.5,0.081,0.12,Low,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2012,25.988,HONDA,TWO-SEATER,152,6.6,1.5,0.116,0.18,Moderate,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2012,25.988,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.336,0.49,Moderate,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2012,25.988,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.314,0.61,Moderate,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2013,26.95,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.269,0.52,Moderate,Very_Low,Large
+Thailand,South-East Asia,Asia_Developing,2013,26.95,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.124,0.3,Moderate,Low,Large
+Thailand,South-East Asia,Asia_Developing,2013,26.95,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.053,0.16,Moderate,High,Large
+Thailand,South-East Asia,Asia_Developing,2014,23.924,KIA,STATION WAGON - SMALL,205.75,8.95,1.8,0.058,0.12,Low,Low,Medium
+Thailand,South-East Asia,Asia_Developing,2014,23.924,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.14,0.43,Low,High,Large
+Thailand,South-East Asia,Asia_Developing,2014,23.924,HONDA,MINIVAN,244,10.6,3.5,0.129,0.32,Low,Low,Large
+Thailand,South-East Asia,Asia_Developing,2015,24.382,HONDA,TWO-SEATER,152,6.6,1.5,0.092,0.14,Low,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2015,24.382,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.27,0.46,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2015,24.382,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.337,0.65,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2016,26.674,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.159,0.27,Moderate,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2016,26.674,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.082,0.14,Moderate,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2016,26.674,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.238,0.46,Moderate,Very_Low,Large
+Thailand,South-East Asia,Asia_Developing,2017,23.822,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.072,0.18,Low,Low,Large
+Thailand,South-East Asia,Asia_Developing,2017,23.822,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.327,0.56,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2017,23.822,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.143,0.18,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2018,23.952,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.1,0.24,Low,Low,Large
+Thailand,South-East Asia,Asia_Developing,2018,23.952,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.093,0.32,Low,High,Very_Large
+Thailand,South-East Asia,Asia_Developing,2018,23.952,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.2,0.33,Low,Very_Low,Medium
+Thailand,South-East Asia,Asia_Developing,2019,24.89,TOYOTA,COMPACT,146.3333333,6.366666667,1.5,0.274,0.4,Low,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2019,24.89,HONDA,TWO-SEATER,152,6.6,1.5,0.095,0.15,Low,Very_Low,Small
+Thailand,South-East Asia,Asia_Developing,2019,24.89,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.306,0.59,Low,Very_Low,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2010,12.638,AUDI,SUV - SMALL,249.4,10.52,2.6,0.135,0.34,Low,Low,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2010,12.638,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.052,0.1,Low,Very_Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2010,12.638,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.133,0.38,Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2011,12.896,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.107,0.2,Low,Very_Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2011,12.896,AUDI,COMPACT,238.6,10.38,2.4,0.3,0.72,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2011,12.896,VOLKSWAGEN,MID-SIZE,209.7142857,8.771428571,2.314285714,0.176,0.37,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2012,11.662,MERCEDES-BENZ,SUBCOMPACT,255.3333333,11.1,3.877777778,0.071,0.18,Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2012,11.662,AUDI,FULL-SIZE,284.25,11.975,4.075,0.08,0.23,Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2012,11.662,AUDI,COMPACT,238.6,10.38,2.4,0.332,0.79,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2013,11.362,VOLKSWAGEN,SUBCOMPACT,216.6,9.42,2.06,0.138,0.3,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2013,11.362,AUDI,TWO-SEATER,345.8,15.04,4.16,0.129,0.45,Low,High,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2013,11.362,MERCEDES-BENZ,SUV - STANDARD,337.9090909,14.78181818,4.463636364,0.121,0.41,Low,High,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2014,10.536,AUDI,SUV - SMALL,249.4,10.52,2.6,0.162,0.4,Low,Low,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2014,10.536,AUDI,COMPACT,238.6,10.38,2.4,0.235,0.56,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2014,10.536,VOLKSWAGEN,MID-SIZE,209.7142857,8.771428571,2.314285714,0.216,0.45,Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2015,10.67,BMW,FULL-SIZE,269.1818182,11.70909091,3.818181818,0.148,0.4,Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2015,10.67,BMW,SUBCOMPACT,315.6666667,13.73333333,4.4,0.117,0.37,Low,High,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2015,10.67,BMW,COMPACT,235.3076923,10.18846154,2.938461538,0.319,0.75,Low,Low,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2016,9.798,VOLKSWAGEN,SUV - SMALL,253,11,2,0.117,0.3,Very_Low,Moderate,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2016,9.798,AUDI,SUV - STANDARD,299,12.05,3,0.25,0.75,Very_Low,Moderate,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2016,9.798,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.128,0.31,Very_Low,Low,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2017,9.718,AUDI,MID-SIZE,257.1666667,10.80833333,3.333333333,0.27,0.69,Very_Low,Moderate,Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2017,9.718,MERCEDES-BENZ,FULL-SIZE,286,12.43333333,4.966666667,0.084,0.24,Very_Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2017,9.718,VOLKSWAGEN,MID-SIZE,209.7142857,8.771428571,2.314285714,0.333,0.7,Very_Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2018,9.704,AUDI,FULL-SIZE,284.25,11.975,4.075,0.134,0.38,Very_Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2018,9.704,BMW,SUV - STANDARD,308.6,13.42,3.84,0.119,0.37,Very_Low,High,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2018,9.704,MERCEDES-BENZ,STATION WAGON - SMALL,184,8,2,0.063,0.12,Very_Low,Very_Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2019,9.188,MERCEDES-BENZ,TWO-SEATER,287.3,12.49,4.74,0.105,0.3,Very_Low,Moderate,Very_Large
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2019,9.188,VOLKSWAGEN,STATION WAGON - SMALL,203.5,8.25,2.25,0.131,0.27,Very_Low,Low,Medium
+United Kingdom of Great Britain and Northern Ireland,Europe,Europe_Developed,2019,9.188,MERCEDES-BENZ,SUV - SMALL,245,9.9,2.8,0.158,0.39,Very_Low,Low,Large
+United States of America,Americas,North_America,2010,9.216,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.108,0.21,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2010,9.216,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.119,0.15,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2010,9.216,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.29,0.49,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2011,9.288,CHEVROLET,FULL-SIZE,223.5,10.8,3.025,0.073,0.16,Very_Low,Low,Large
+United States of America,Americas,North_America,2011,9.288,CHEVROLET,COMPACT,244.6153846,10.63076923,3.446153846,0.278,0.68,Very_Low,Low,Large
+United States of America,Americas,North_America,2011,9.288,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.132,0.21,Very_Low,Very_Low,Small
+United States of America,Americas,North_America,2012,9,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.159,0.46,Very_Low,Moderate,Very_Large
+United States of America,Americas,North_America,2012,9,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.213,0.5,Very_Low,Low,Medium
+United States of America,Americas,North_America,2012,9,CHEVROLET,FULL-SIZE,223.5,10.8,3.025,0.095,0.21,Very_Low,Low,Large
+United States of America,Americas,North_America,2013,8.684,TOYOTA,STATION WAGON - MID-SIZE,126,5.5,1.8,0.131,0.17,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2013,8.684,CHEVROLET,SUV - STANDARD,301.7,15.37,4.96,0.241,0.73,Very_Low,High,Very_Large
+United States of America,Americas,North_America,2013,8.684,TOYOTA,MINIVAN,272.5,11.85,3.5,0.115,0.31,Very_Low,Moderate,Large
+United States of America,Americas,North_America,2014,8.554,TOYOTA,PICKUP TRUCK - SMALL,280,12.17142857,3.257142857,0.109,0.31,Very_Low,Moderate,Large
+United States of America,Americas,North_America,2014,8.554,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.065,0.22,Very_Low,High,Very_Large
+United States of America,Americas,North_America,2014,8.554,CHEVROLET,SUBCOMPACT,159,6.9,1.2,0.067,0.11,Very_Low,Very_Low,Small
+United States of America,Americas,North_America,2015,8.25,CHEVROLET,MID-SIZE,186.3333333,8.02,1.66,0.253,0.47,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2015,8.25,FORD,SUV - STANDARD,287.9090909,14.01818182,3.709090909,0.187,0.54,Very_Low,Moderate,Very_Large
+United States of America,Americas,North_America,2015,8.25,CHEVROLET,TWO-SEATER,267,11.6,6.2,0.144,0.38,Very_Low,Moderate,Huge
+United States of America,Americas,North_America,2016,7.482,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.14,0.38,Very_Low,Moderate,Very_Large
+United States of America,Americas,North_America,2016,7.482,FORD,MID-SIZE,188.8571429,8.214285714,1.871428571,0.251,0.47,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2016,7.482,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.164,0.27,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2017,7.894,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.157,0.43,Very_Low,Moderate,Very_Large
+United States of America,Americas,North_America,2017,7.894,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.318,0.53,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2017,7.894,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.065,0.2,Very_Low,High,Large
+United States of America,Americas,North_America,2018,8.074,FORD,VAN - PASSENGER,409,20.64,5.36,0.102,0.42,Very_Low,Very_High,Huge
+United States of America,Americas,North_America,2018,8.074,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.199,0.33,Very_Low,Very_Low,Medium
+United States of America,Americas,North_America,2018,8.074,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.086,0.26,Very_Low,High,Large
+United States of America,Americas,North_America,2019,7.136,HONDA,TWO-SEATER,152,6.6,1.5,0.13,0.2,Very_Low,Very_Low,Small
+United States of America,Americas,North_America,2019,7.136,FORD,SUV - SMALL,234.2222222,10.18888889,2.488888889,0.202,0.47,Very_Low,Low,Medium
+United States of America,Americas,North_America,2019,7.136,HONDA,MINIVAN,244,10.6,3.5,0.105,0.26,Very_Low,Low,Large
+Viet Nam,Western Pacific,Asia_Developing,2010,22.502,TOYOTA,MINIVAN,272.5,11.85,3.5,0.092,0.25,Low,Moderate,Large
+Viet Nam,Western Pacific,Asia_Developing,2010,22.502,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.108,0.33,Low,High,Large
+Viet Nam,Western Pacific,Asia_Developing,2010,22.502,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.133,0.28,Low,Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2011,20.798,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.232,0.4,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2011,20.798,HYUNDAI,SUV - SMALL,244.3,10.62,2.42,0.153,0.37,Low,Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2011,20.798,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.211,0.35,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2012,21.796,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.091,0.19,Low,Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2012,21.796,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.07,0.12,Low,Very_Low,Small
+Viet Nam,Western Pacific,Asia_Developing,2012,21.796,HYUNDAI,FULL-SIZE,244,10.6,3.3,0.101,0.25,Low,Low,Large
+Viet Nam,Western Pacific,Asia_Developing,2013,22.752,HONDA,PICKUP TRUCK - STANDARD,308,13.4,3.5,0.121,0.37,Low,High,Large
+Viet Nam,Western Pacific,Asia_Developing,2013,22.752,HYUNDAI,MID-SIZE,170.5,7.4,2.2,0.222,0.38,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2013,22.752,KIA,MINIVAN,276,12,3.5,0.063,0.17,Low,Moderate,Large
+Viet Nam,Western Pacific,Asia_Developing,2014,20.188,KIA,MID-SIZE,198.1666667,8.616666667,2,0.163,0.32,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2014,20.188,TOYOTA,STATION WAGON - SMALL,192.5,8.35,1.8,0.133,0.26,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2014,20.188,KIA,MINIVAN,276,12,3.5,0.068,0.19,Low,Moderate,Large
+Viet Nam,Western Pacific,Asia_Developing,2015,20.574,HONDA,SUV - SMALL,242.4,10.54,3.06,0.202,0.49,Low,Low,Large
+Viet Nam,Western Pacific,Asia_Developing,2015,20.574,KIA,COMPACT,193.5714286,8.414285714,1.714285714,0.336,0.65,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2015,20.574,HONDA,MID-SIZE,194.1428571,8.442857143,2.814285714,0.349,0.68,Low,Very_Low,Large
+Viet Nam,Western Pacific,Asia_Developing,2016,22.482,TOYOTA,MINIVAN,272.5,11.85,3.5,0.13,0.36,Low,Moderate,Large
+Viet Nam,Western Pacific,Asia_Developing,2016,22.482,HONDA,SUV - SMALL,242.4,10.54,3.06,0.113,0.27,Low,Low,Large
+Viet Nam,Western Pacific,Asia_Developing,2016,22.482,TOYOTA,MID-SIZE,166.9166667,7.258333333,2.258333333,0.227,0.38,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2017,20.194,HYUNDAI,COMPACT,185.5,8.066666667,1.6,0.23,0.43,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2017,20.194,KIA,MID-SIZE,198.1666667,8.616666667,2,0.151,0.3,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2017,20.194,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.255,0.43,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2018,20.18,HONDA,STATION WAGON - SMALL,174.5,7.6,1.5,0.08,0.14,Low,Very_Low,Small
+Viet Nam,Western Pacific,Asia_Developing,2018,20.18,KIA,FULL-SIZE,217.6,9.46,2.1,0.136,0.3,Low,Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2018,20.18,TOYOTA,SUV - STANDARD,270.3333333,11.75,4.033333333,0.229,0.62,Low,Moderate,Very_Large
+Viet Nam,Western Pacific,Asia_Developing,2019,20.978,KIA,STATION WAGON - MID-SIZE,213,9.25,2,0.13,0.28,Low,Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2019,20.978,HONDA,COMPACT,167.3333333,7.266666667,1.8,0.347,0.58,Low,Very_Low,Medium
+Viet Nam,Western Pacific,Asia_Developing,2019,20.978,TOYOTA,PICKUP TRUCK - STANDARD,343,14.92,4.92,0.11,0.38,Low,High,Very_Large
