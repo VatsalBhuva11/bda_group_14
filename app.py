@@ -9,12 +9,13 @@ import os
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 import warnings
+import joblib
 warnings.filterwarnings('ignore')
 
 # Set page configuration
 st.set_page_config(
     page_title="Emission Hotspot Dashboard",
-    page_icon="🌍",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -76,8 +77,7 @@ def load_model_artifacts():
     for name, filepath in model_files.items():
         if os.path.exists(filepath):
             try:
-                with open(filepath, 'rb') as f:
-                    artifacts[name] = pickle.load(f)
+                artifacts[name] = joblib.load(filepath)
             except Exception as e:
                 st.warning(f"Could not load {name}: {e}")
         else:
@@ -130,7 +130,7 @@ def create_kpi_cards(df):
 
 def create_sidebar_filters(df):
     """Create sidebar filters"""
-    st.sidebar.header("🔍 Filters")
+    st.sidebar.header("Filters")
     
     # Year range filter
     year_range = st.sidebar.slider(
@@ -230,7 +230,7 @@ def create_overview_charts(df):
     col1, col2 = st.columns(2)
     
     with col1:
-        st.subheader("🌍 PM2.5 Concentration by Region")
+        st.subheader("PM2.5 Concentration by Region")
         region_pm25 = df.groupby('Region')['PM25_Concentration'].mean().sort_values(ascending=False)
         
         fig = px.bar(
@@ -246,7 +246,7 @@ def create_overview_charts(df):
         st.plotly_chart(fig, use_container_width=True)
     
     with col2:
-        st.subheader("🚗 CO₂ Emissions by Vehicle Class")
+        st.subheader("CO₂ Emissions by Vehicle Class")
         class_co2 = df.groupby('Vehicle_Class')['Avg_CO2_Emissions'].mean().sort_values(ascending=False)
         
         fig = px.bar(
@@ -262,7 +262,7 @@ def create_overview_charts(df):
 
 def create_time_series_analysis(df):
     """Create time series analysis"""
-    st.subheader("📈 Temporal Analysis")
+    st.subheader("Temporal Analysis")
     
     # Time series of pollution metrics
     yearly_data = df.groupby('Year').agg({
@@ -314,7 +314,7 @@ def create_time_series_analysis(df):
 
 def create_correlation_heatmap(df):
     """Create correlation heatmap"""
-    st.subheader("🔥 Correlation Analysis")
+    st.subheader("Correlation Analysis")
     
     # Select numeric columns for correlation
     numeric_cols = ['PM25_Concentration', 'Avg_CO2_Emissions', 'Avg_Fuel_Consumption', 
@@ -337,7 +337,7 @@ def create_correlation_heatmap(df):
 
 def create_geographic_analysis(df):
     """Create geographic analysis"""
-    st.subheader("🗺️ Geographic Distribution")
+    st.subheader("Geographic Distribution")
     
     col1, col2 = st.columns(2)
     
@@ -383,10 +383,10 @@ def create_geographic_analysis(df):
 
 def create_vehicle_analysis(df):
     """Create vehicle-specific analysis"""
-    st.subheader("🚙 Vehicle Analysis")
+    st.subheader("Vehicle Analysis")
     
     col1, col2 = st.columns(2)
-    
+
     with col1:
         # Market share by vehicle make
         make_share = df.groupby('Vehicle_Make')['Estimated_Market_Share'].sum().sort_values(ascending=False).head(10)
@@ -413,7 +413,7 @@ def create_vehicle_analysis(df):
 
 def create_prediction_playground(artifacts, df):
     """Create ML prediction playground"""
-    st.subheader("🔮 Prediction Playground")
+    st.subheader("Prediction Playground")
     
     if not artifacts.get('model'):
         st.warning("ML model not found. Please ensure model artifacts are available in the models/ directory.")
@@ -438,6 +438,15 @@ def create_prediction_playground(artifacts, df):
         market_share = st.number_input("Market Share", 
                                      min_value=0.0, max_value=1.0, value=0.1, step=0.01)
         
+        # Year input to match scaler feature set
+        year_value = st.number_input(
+            "Year",
+            min_value=int(df['Year'].min()),
+            max_value=int(df['Year'].max()),
+            value=int(df['Year'].median()),
+            step=1
+        )
+        
         # Categorical inputs
         if 'vehicle_make_encoder' in artifacts:
             vehicle_makes = list(artifacts['vehicle_make_encoder'].classes_)
@@ -460,7 +469,7 @@ def create_prediction_playground(artifacts, df):
     with col2:
         st.write("**Prediction Result:**")
         
-        if st.button("🎯 Predict Hotspot", type="primary"):
+        if st.button("Predict Hotspot", type="primary"):
             try:
                 # Prepare input data
                 input_data = pd.DataFrame({
@@ -468,7 +477,8 @@ def create_prediction_playground(artifacts, df):
                     'Avg_CO2_Emissions': [co2],
                     'Avg_Fuel_Consumption': [fuel_consumption],
                     'Avg_Engine_Size': [engine_size],
-                    'Estimated_Market_Share': [market_share]
+                    'Estimated_Market_Share': [market_share],
+                    'Year': [year_value]
                 })
                 
                 # Encode categorical variables
@@ -495,33 +505,36 @@ def create_prediction_playground(artifacts, df):
                 
                 # Scale features if scaler is available
                 if 'scaler' in artifacts:
-                    feature_cols = []
                     scaler = artifacts['scaler']
                     
-                    # Use scaler's feature names if available
                     if hasattr(scaler, 'feature_names_in_'):
-                        feature_cols = scaler.feature_names_in_
+                        feature_cols = list(scaler.feature_names_in_)
                     else:
-                        # Fallback to common features
-                        feature_cols = ['PM25_Concentration', 'Avg_CO2_Emissions', 'Avg_Fuel_Consumption', 
-                                      'Avg_Engine_Size', 'Estimated_Market_Share']
+                        feature_cols = list(input_data.columns)
                     
-                    # Select only available columns
-                    available_cols = [col for col in feature_cols if col in input_data.columns]
-                    input_scaled = scaler.transform(input_data[available_cols])
+                    # Ensure all required columns exist in input_data
+                    for col in feature_cols:
+                        if col not in input_data.columns:
+                            input_data[col] = 0
+                    
+                    # Reorder columns to match scaler expectation
+                    input_ordered = input_data[feature_cols]
+                    input_scaled = scaler.transform(input_ordered)
                 else:
                     input_scaled = input_data.values
                 
                 # Make prediction
-                prediction = artifacts['model'].predict(input_scaled)[0]
-                probability = artifacts['model'].predict_proba(input_scaled)[0]
+                model = artifacts['model']
+                X_for_model = input_scaled if hasattr(model, 'predict_proba') and isinstance(model, (type(artifacts['model']))) else input_data.values
+                prediction = model.predict(input_scaled)[0]
+                probability = model.predict_proba(input_scaled)[0]
                 
                 # Display results
                 if prediction == 1:
-                    st.error("🔴 **EMISSION HOTSPOT DETECTED**")
+                    st.error("**EMISSION HOTSPOT DETECTED**")
                     st.write(f"Hotspot Probability: {probability[1]:.2%}")
                 else:
-                    st.success("🟢 **Normal Emission Level**")
+                    st.success("**Normal Emission Level**")
                     st.write(f"Hotspot Probability: {probability[1]:.2%}")
                 
                 # Show probability breakdown
@@ -531,11 +544,11 @@ def create_prediction_playground(artifacts, df):
                 
                 # Add recommendation
                 if probability[1] > 0.7:
-                    st.warning("⚠️ High emission risk detected. Consider implementing emission reduction measures.")
+                    st.warning("High emission risk detected. Consider implementing emission reduction measures.")
                 elif probability[1] > 0.3:
-                    st.info("ℹ️ Moderate emission risk. Monitor closely.")
+                    st.info("Moderate emission risk. Monitor closely.")
                 else:
-                    st.success("✅ Low emission risk. Good environmental performance.")
+                    st.success("Low emission risk. Good environmental performance.")
                 
             except Exception as e:
                 st.error(f"Prediction error: {str(e)}")
@@ -543,7 +556,7 @@ def create_prediction_playground(artifacts, df):
 
 def create_data_explorer(df):
     """Create data exploration section"""
-    st.subheader("📊 Data Explorer")
+    st.subheader("Data Explorer")
     
     col1, col2 = st.columns([3, 1])
     
@@ -564,7 +577,7 @@ def create_data_explorer(df):
         # Download filtered data
         csv = df.to_csv(index=False)
         st.download_button(
-            label="📥 Download Filtered Data",
+            label="Download Filtered Data",
             data=csv,
             file_name="filtered_emissions_data.csv",
             mime="text/csv",
@@ -574,7 +587,7 @@ def create_data_explorer(df):
 def main():
     """Main application function"""
     # Header
-    st.markdown('<h1 class="main-header">🌍 Emission Hotspot Dashboard</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">Emission Hotspot Dashboard</h1>', unsafe_allow_html=True)
     st.markdown("---")
     
     # Load data and models
@@ -597,8 +610,8 @@ def main():
     
     # Main content tabs
     tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
-        "📈 Overview", "🌍 Geographic", "🚗 Vehicle Analysis", 
-        "🔮 Predictions", "📊 Data Explorer", "ℹ️ About"
+        "Overview", "Geographic", "Vehicle Analysis", 
+        "Predictions", "Data Explorer", "About"
     ])
     
     with tab1:
