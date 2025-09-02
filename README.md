@@ -47,3 +47,7 @@ The app will open in your browser at `http://localhost:8501`.
 - If the `Hotspot` column is missing, the app attempts to derive it from a score column at the 70th percentile.
 - The Prediction Playground aligns features to the scaler's `feature_names_in_` when available.
 - For best results, provide the exact encoders/scaler used during training. 
+- Some sample inputs:
+PM2.5: 40, CO₂: 250, Fuel: 10.5, Engine: 2.3, Market: 0.18, Year: 2016, AUDI SUV-STANDARD ASIA-DEVELOPING
+PM2.5: 48, CO₂: 290, Fuel: 11.5, Engine: 2.6, Market: 0.22, Year: 2017, AUDI SUV-STANDARD ASIA-DEVELOPING
+PM2.5: 35, CO₂: 230, Fuel: 9.5, Engine: 2.0, Market: 0.15, Year: 2015, AUDI SUV-STANDARD ASIA-DEVELOPING
