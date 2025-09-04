@@ -53,7 +53,7 @@ def analyze_merged_dataset():
             'correlations': correlation_matrix.to_dict()
         }
         
-        print("\n✅ Analysis complete! Dataset is ready for your assignment.")
+        print("\n✅ Analysis complete! Dataset is ready.")
         return df, analysis_results
         
     except FileNotFoundError:

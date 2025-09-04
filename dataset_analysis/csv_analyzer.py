@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # List of CSV files to analyze
-csv_files = ["CMC-2023-03-06-merged.csv", "data_who.csv", "FuelConsumptionCo2.csv"]
+csv_files = ["original_datasets/CMC-2023-03-06-merged.csv", "original_datasets/data_who.csv", "original_datasets/FuelConsumptionCo2.csv"]
 
 for csv_file in csv_files:
     if os.path.exists(csv_file):
